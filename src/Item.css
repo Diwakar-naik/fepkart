@@ -1,0 +1,42 @@
+.circle{
+    position: relative;
+    height:200px;
+    width:200px;
+    background-color: rgb(223, 182, 165);
+    border-radius: 100px;
+    right:-10px
+}
+.main-2{
+    height:30vh;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
+.main-3{
+    margin-top:10px;
+    height:70vh;
+    background-color: lightgray;
+}
+.kiol{
+    width:200px;
+    overflow: auto;
+}
+.kill{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: flex-start;
+}
+.lok{
+    display: flex;
+    width:70vw;
+    justify-content: space-between;
+}
+.img-sizeing{
+
+   height:200px;
+   position: absolute;
+   top:100px;
+}
